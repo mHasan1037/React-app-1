@@ -1,0 +1,15 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+:root{
+   --primary-bg: #6669F3;
+   --primary-bg-hover: #787afd;
+}
+
+body{
+   font-family: "Heebo", sans-serif;
+   overflow-x: hidden;
+}

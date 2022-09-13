@@ -1,0 +1,32 @@
+.pricing-container{
+    background-color: #19212C;
+    padding: 70px 0;
+}
+.pricing-heading{
+    margin: 20px auto;
+    text-align: center;
+}
+
+.pricing-heading h1{
+    color: white;
+    font-size: 36px;
+}
+
+.button-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.button-box p{
+    color: #758190;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.pricing-details{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

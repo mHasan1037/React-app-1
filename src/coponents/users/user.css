@@ -1,0 +1,17 @@
+.user-container{
+    padding: 100px 0;
+    background-color: rgba(245, 245, 245);
+}
+
+.user-container h1{
+    text-align: center;
+    font-size: 36px;
+    color: #19212C;
+    font-weight: 700;
+}
+.user-holder{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 80px 0;
+}

@@ -1,0 +1,7 @@
+.online-container{
+    max-width: 900px;
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
